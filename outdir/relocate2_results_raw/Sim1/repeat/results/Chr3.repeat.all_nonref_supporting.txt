@@ -1,0 +1,11 @@
+repeat_name	supporting_reads	Sim1	Chr3	331101..331701	+	T:0	R:0	L:0	ST:1	SR:0	SL:1
+repeat_name	supporting_reads	Sim1	Chr3	391898..392405	+	T:0	R:0	L:0	ST:8	SR:3	SL:5
+repeat_name	supporting_reads	Sim1	Chr3	702387..702987	+	T:0	R:0	L:0	ST:1	SR:1	SL:0
+repeat_name	supporting_reads	Sim1	Chr3	731607..732100	+	T:0	R:0	L:0	ST:6	SR:1	SL:5
+repeat_name	supporting_reads	Sim1	Chr3	1141865..1142589	+	T:0	R:0	L:0	ST:2	SR:1	SL:1
+repeat_name	supporting_reads	Sim1	Chr3	1252306..1252507	+	T:0	R:0	L:0	ST:13	SR:6	SL:7
+repeat_name	supporting_reads	Sim1	Chr3	1258431..1258836	+	T:0	R:0	L:0	ST:16	SR:7	SL:9
+repeat_name	supporting_reads	Sim1	Chr3	1354650..1355057	+	T:0	R:0	L:0	ST:6	SR:2	SL:4
+repeat_name	supporting_reads	Sim1	Chr3	1491397..1491864	+	T:0	R:0	L:0	ST:3	SR:1	SL:2
+repeat_name	supporting_reads	Sim1	Chr3	1895561..1896305	+	T:0	R:0	L:0	ST:3	SR:2	SL:1
+repeat_name	supporting_reads	Sim1	Chr3	1962399..1962999	+	T:0	R:0	L:0	ST:1	SR:0	SL:1

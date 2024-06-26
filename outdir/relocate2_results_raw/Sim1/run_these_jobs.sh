@@ -1,0 +1,9 @@
+sh /bigdata/wesslerlab/shared/Rice/Nathan/rice/tool_testing/relocate2_improvement/relocate2_results_raw/Sim1/shellscripts/step_2/0.fq2fa.sh
+sh /bigdata/wesslerlab/shared/Rice/Nathan/rice/tool_testing/relocate2_improvement/relocate2_results_raw/Sim1/shellscripts/step_2/1.fq2fa.sh
+sh /bigdata/wesslerlab/shared/Rice/Nathan/rice/tool_testing/relocate2_improvement/relocate2_results_raw/Sim1/shellscripts/step_3/0.te_repeat.blat.sh
+sh /bigdata/wesslerlab/shared/Rice/Nathan/rice/tool_testing/relocate2_improvement/relocate2_results_raw/Sim1/shellscripts/step_3/1.te_repeat.blat.sh
+sh /bigdata/wesslerlab/shared/Rice/Nathan/rice/tool_testing/relocate2_improvement/relocate2_results_raw/Sim1/shellscripts/step_4/step_4.MSU7.Chr3_2M.repeat.align.sh
+sh /bigdata/wesslerlab/shared/Rice/Nathan/rice/tool_testing/relocate2_improvement/relocate2_results_raw/Sim1/shellscripts/step_5/0.repeat.findSites.sh
+sh /bigdata/wesslerlab/shared/Rice/Nathan/rice/tool_testing/relocate2_improvement/relocate2_results_raw/Sim1/shellscripts/step_6/0.repeat.absence.sh
+sh /bigdata/wesslerlab/shared/Rice/Nathan/rice/tool_testing/relocate2_improvement/relocate2_results_raw/Sim1/shellscripts/step_7/0.repeat.characterize.sh
+sh /bigdata/wesslerlab/shared/Rice/Nathan/rice/tool_testing/relocate2_improvement/relocate2_results_raw/Sim1/clean_intermediate_files.sh
