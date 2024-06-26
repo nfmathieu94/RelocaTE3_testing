@@ -12,3 +12,5 @@ Make function for running minimap2, BLAT, and maybe one other aligner against TE
 Make stats function
     -Gather statistics/metrics that can be used to compare this step
 
+
+
